@@ -8,8 +8,9 @@ pertama-tama
 3. pkg install nodejs-lts
 4. pkg install ffmpeg -y
 5. git clone https://github.com/rezonexd/xdicabot
-6. npm install
-7. npm start
+6. cd xdicabot
+7. npm install
+8. npm start
 
 (angka dan titik tidak di bawa)
 

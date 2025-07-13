@@ -3,13 +3,15 @@ Cara install bot WhatsApp XDica BOT
 
 pertama-tama
 
-pkg update && pkg upgrade
-pkg install git -y
-pkg install nodejs-lts
-pkg install ffmpeg -y
-git clone https://github.com/rezonexd/xdicabot
-npm install
-npm start
+1. pkg update && pkg upgrade
+2. pkg install git -y
+3. pkg install nodejs-lts
+4. pkg install ffmpeg -y
+5. git clone https://github.com/rezonexd/xdicabot
+6. npm install
+7. npm start
+
+(angka dan titik tidak di bawa)
 
 salin satu persatu yaa. jangan lupa dukung gw dan kawan gw. bot tahap pengembangan.
 
